@@ -12,8 +12,6 @@ This section provides an overview of my HomeLab infrastructure.
 
 ## Hardware Overview
 
-## Hardware Overview
-
 ### Server
 - Dell PowerEdge R740
 - Proxmox VE
