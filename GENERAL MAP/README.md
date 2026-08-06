@@ -8,7 +8,7 @@ This section provides an overview of my HomeLab infrastructure.
 
 ## Network Topology
 
-*Coming soon...*
+![HomeLab Network Topology](Network Topology.png)
 
 ## Hardware Overview
 
