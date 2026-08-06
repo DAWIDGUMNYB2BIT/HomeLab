@@ -4,7 +4,7 @@ This section provides an overview of my HomeLab infrastructure.
 
 ## Infrastructure Diagram
 
-*Coming soon...*
+![HomeLab Infrastructure Diagram](infrastructure-diagram.png)
 
 ## Network Topology
 
