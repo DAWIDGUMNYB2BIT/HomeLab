@@ -337,7 +337,22 @@ Built and tested a portable WireGuard VPN architecture using a GL.iNet AXT1800 t
 - Compared the cascaded travel-router architecture with a simpler direct laptop-to-home WireGuard connection and used the direct topology where the additional VPN hop was unnecessary.
 - Created configuration and router backups to allow recovery after firmware updates or device resets.
 
+### 24. Hikvision NVR Recording Retrieval and RTSP Integration
 
+**Project description:**  
+Built and troubleshot a workflow for accessing a Hikvision NVR and retrieving
+a specific one-minute recording based on a selected date and time.
+
+- Configured communication with the Hikvision NVR for remote recording access.
+- Used XML-based requests to query and locate recorded video for a specific
+  date and time range.
+- Retrieved a selected one-minute recording from the NVR.
+- Configured and tested RTSP connectivity for direct access to camera/NVR
+  video streams.
+- Diagnosed authentication, connection, stream URL, and request-format issues
+  encountered during implementation.
+- Combined Hikvision recording access, XML requests, and RTSP into a working
+  video retrieval workflow.
 
 
 
